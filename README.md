@@ -11,4 +11,7 @@ Bu uygulama bize seçtiğimiz filmdeki koltuk durumlarını gösteriyor.
 izlemek istediğimiz filmi seçiyoruz ve tercih ettiğimiz koltuğu tıklıyoruz.
 Uygulama bizi için seçtiğimiz koltukların fiyatlarını topluyor.
 
-![movie](https://user-images.githubusercontent.com/72262726/166942242-c674c560-331d-4394-bd1d-6d4d38f064c9.png)
+
+
+![image](https://user-images.githubusercontent.com/72262726/166944603-74c9bca3-f85e-42c8-b748-57ca2d41b265.png)
+
