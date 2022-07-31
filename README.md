@@ -1,6 +1,7 @@
 ## movie-saloon ##
 seat selector
 
+https://ugurcok.github.io/movie-saloon/
 
 This application shows us the seat situations in the movie theater we selected.
 We choose the movie we want to watch and click on the seat we prefer.
